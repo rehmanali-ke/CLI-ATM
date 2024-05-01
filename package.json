@@ -1,0 +1,20 @@
+{
+  "name": "ra-cli-atm",
+  "version": "1.0.0",
+  "description": "it is cli ATM machine and it works with the help of typescript, node.js and inquirer",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rehman Ali",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
